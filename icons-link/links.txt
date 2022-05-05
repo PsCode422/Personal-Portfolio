@@ -1,0 +1,11 @@
+faceboook :- <a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Pixel perfect - Flaticon</a>
+
+Twitter :- <a href="https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by Pixel perfect - Flaticon</a>
+
+mail :- <a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Ilham Fitrotul Hayat - Flaticon</a>
+
+GitHub :- <a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Pixel perfect - Flaticon</a>
+
+call-me :- <a href="https://www.flaticon.com/free-icons/smartphone" title="smartphone icons">Smartphone icons created by Freepik - Flaticon</a>
+
+c-icon :- <a href="https://www.flaticon.com/free-icons/letter-c" title="letter c icons">Letter c icons created by Freepik - Flaticon</a>
